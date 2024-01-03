@@ -1,0 +1,14 @@
+div{
+    border: 1px solid black;
+    padding:2rem;
+    color: white;
+    margin: 20%;
+    align-content: center;
+}
+button{
+    border-radius: 25%;
+}
+body{
+    background-image: url("./R.jpeg");
+    background-size: 100% 100%;
+}
